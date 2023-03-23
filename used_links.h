@@ -6,11 +6,7 @@
  * https://www.instructables.com/ATTiny-Port-Manipulation-Part-2-AnalogRead/
  * https://learn.sparkfun.com/tutorials/tiny-avr-programmer-hookup-guide/attiny85-use-hints
  * //https://github.com/datacute/Tiny4kOLED
- * 
- * // The begin() method sets the rotation to 1.
- * //oled.setRotation(0);
-   //oled.setFontX2Smooth(FONT6X8P);
-    
+ *    
  * ATTINY64
  * pin1=A0=ADC0=PB5
  * pin2=A3=ADC3=PB3
