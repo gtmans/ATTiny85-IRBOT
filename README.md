@@ -9,4 +9,7 @@ Inspired by @mohitbhoite I created this tiny robot based on an ATTiny85, SSD1306
 
 ![fritzing](https://github.com/gtmans/ATTiny85-IRBOT/blob/main/ATTiny85IRBOT-fritzing.png)
 
+3D-model available here: https://www.tinkercad.com/things/9XEP3LANwHM-attiny85irbot
+.ino source available in directory
+
 ![bot3d](https://github.com/gtmans/ATTiny85-IRBOT/blob/main/IRBOT-3D-front.png)
